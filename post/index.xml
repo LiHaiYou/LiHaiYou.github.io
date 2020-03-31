@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>https://github.com/lx940815/lx940815.github.io.git/post/</link>
+    <link>https://lx940815.github.io/post/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Tue, 31 Mar 2020 22:09:51 +0800</lastBuildDate>
     
-	<atom:link href="https://github.com/lx940815/lx940815.github.io.git/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lx940815.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Process</title>
-      <link>https://github.com/lx940815/lx940815.github.io.git/post/process/</link>
+      <link>https://lx940815.github.io/post/process/</link>
       <pubDate>Tue, 31 Mar 2020 22:09:51 +0800</pubDate>
       
-      <guid>https://github.com/lx940815/lx940815.github.io.git/post/process/</guid>
+      <guid>https://lx940815.github.io/post/process/</guid>
       <description>木
 子
  口
@@ -28,10 +28,10 @@ uuu下划线创建脚注格式类似这样 1.
     
     <item>
       <title>Test</title>
-      <link>https://github.com/lx940815/lx940815.github.io.git/post/test/</link>
+      <link>https://lx940815.github.io/post/test/</link>
       <pubDate>Tue, 31 Mar 2020 20:28:33 +0800</pubDate>
       
-      <guid>https://github.com/lx940815/lx940815.github.io.git/post/test/</guid>
+      <guid>https://lx940815.github.io/post/test/</guid>
       <description>木
 子
 口向</description>
