@@ -6,10 +6,33 @@
     <description>Recent content in Posts on 木子 口向</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 31 Mar 2020 22:09:51 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2020 18:10:55 +0800</lastBuildDate>
     
 	<atom:link href="https://lx940815.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hugo博客搭建与使用入门</title>
+      <link>https://lx940815.github.io/post/hugo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E4%B8%8E%E4%BD%BF%E7%94%A8%E5%85%A5%E9%97%A8/</link>
+      <pubDate>Wed, 01 Apr 2020 18:10:55 +0800</pubDate>
+      
+      <guid>https://lx940815.github.io/post/hugo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E4%B8%8E%E4%BD%BF%E7%94%A8%E5%85%A5%E9%97%A8/</guid>
+      <description>一、Hugo二进制文件下载与环境配置
+ 下载地址： https://github.com/gohugoio/hugo/releases  由于已经是二进制文件，故不依赖于 go 语言环境。
+解压文件，配置 bin 目录  创建文件夹，E:\hugo\bin
+将解压后的 hugo.exe 文件拷贝到 bin 目录。
+配置环境变量  将 hugo.exe 路径添加到 path 目录。
+查看是否安装成功  使用 cmd 或 git push，输入 hugo version。
+（推荐 git 之后操作均在 git ）
+输出类似：
+Hugo Static Site Generator v0.68.3-157669A0 windows/amd64 BuildDate: 2020-03-24T12:04:36Z
+即下安装成功。
+二、创建博客站点与下载主题
+ 创建博客站点 cd 到 hugo 目录  $ hugo new site myblog
+执行后，在 hugo 目录下就会生成 myblog 的站点文件夹，文件目录结构为：
+archetypes　(存放default.md，头文件格式，每次新建文章默认显示的头部信息在此修改)
+content (存放博客文章，markdown格式文件)</description>
+    </item>
     
     <item>
       <title>Process</title>
