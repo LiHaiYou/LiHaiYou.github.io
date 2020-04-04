@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 木子 口向</title>
-    <link>https://lx940815.github.io/post/</link>
+    <link>https://lihaiyou.github.io/post/</link>
     <description>Recent content in Posts on 木子 口向</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Wed, 01 Apr 2020 18:10:55 +0800</lastBuildDate>
     
-	<atom:link href="https://lx940815.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lihaiyou.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hugo博客搭建与使用入门</title>
-      <link>https://lx940815.github.io/post/hugo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E4%B8%8E%E4%BD%BF%E7%94%A8%E5%85%A5%E9%97%A8/</link>
+      <link>https://lihaiyou.github.io/post/hugo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E4%B8%8E%E4%BD%BF%E7%94%A8%E5%85%A5%E9%97%A8/</link>
       <pubDate>Wed, 01 Apr 2020 18:10:55 +0800</pubDate>
       
-      <guid>https://lx940815.github.io/post/hugo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E4%B8%8E%E4%BD%BF%E7%94%A8%E5%85%A5%E9%97%A8/</guid>
+      <guid>https://lihaiyou.github.io/post/hugo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E4%B8%8E%E4%BD%BF%E7%94%A8%E5%85%A5%E9%97%A8/</guid>
       <description>一、Hugo二进制文件下载与环境配置
  下载地址： https://github.com/gohugoio/hugo/releases  由于已经是二进制文件，故不依赖于 go 语言环境。
 解压文件，配置 bin 目录  创建文件夹，E:\hugo\bin
@@ -36,10 +36,10 @@ content (存放博客文章，markdown格式文件)</description>
     
     <item>
       <title>Process</title>
-      <link>https://lx940815.github.io/post/process/</link>
+      <link>https://lihaiyou.github.io/post/process/</link>
       <pubDate>Tue, 31 Mar 2020 22:09:51 +0800</pubDate>
       
-      <guid>https://lx940815.github.io/post/process/</guid>
+      <guid>https://lihaiyou.github.io/post/process/</guid>
       <description>墙角数枝梅
 凌寒独自开
 木
@@ -53,10 +53,10 @@ uuu下划线创建脚注格式类似这样 1.
     
     <item>
       <title>Test</title>
-      <link>https://lx940815.github.io/post/test/</link>
+      <link>https://lihaiyou.github.io/post/test/</link>
       <pubDate>Tue, 31 Mar 2020 20:28:33 +0800</pubDate>
       
-      <guid>https://lx940815.github.io/post/test/</guid>
+      <guid>https://lihaiyou.github.io/post/test/</guid>
       <description>木
 子
 口向</description>
